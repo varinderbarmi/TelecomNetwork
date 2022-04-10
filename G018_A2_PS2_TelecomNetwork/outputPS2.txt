@@ -1,0 +1,5 @@
+The offices can be connected as
+
+(h,i), (b,e), (a,f), (f,e), (e,h), (c,d), (e,g), (e,d), (i,j), (j,k), (d,m), (n,o), (o,k), (l,k)
+
+The minimum cost of connecting the offices is 1030
